@@ -49,6 +49,7 @@ Scanner reader;
         
 String[] names = new String[80];
 int[] scores = new int[80];
+readScores(names, scores, args[0]);
 
 
 
